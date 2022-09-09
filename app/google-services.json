@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143040424724",
+    "firebase_url": "https://iot-toll-default-rtdb.firebaseio.com",
+    "project_id": "iot-toll",
+    "storage_bucket": "iot-toll.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143040424724:android:de121ba4f425bb0d847001",
+        "android_client_info": {
+          "package_name": "com.blogspot.duet.tollmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143040424724-3fdpp61tti4ivkq2f44d5qju9cc332hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7BlUYhy4NeqIqyjJazb_5kOSICMzXbj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143040424724-3fdpp61tti4ivkq2f44d5qju9cc332hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+# Toll-Management
+
+
+D0-IR
+
+D1-i2c LCD
+D2-i2c LCD
+
+RFID
+-----
+D3-RST
+D4-SDA
+D5-SCK
+D6-MISO
+D7-MOSI
+
+D8-SERVO
+
+A0-BUZZER
